@@ -1,0 +1,152 @@
+.cardsty {
+  background: #fbfbfb;
+  margin-top: 32px;
+  /* Gray 6 */
+
+  border: 1px solid #f2f2f2;
+
+  border-radius: 8px;
+  max-width: 1110px;
+  max-height: 106px;
+}
+img {
+  margin: 10px;
+}
+h5 {
+  color: #051935;
+}
+.line {
+  border: 1px solid #f2f2f2;
+}
+.mehsul div {
+  color: #377ff0;
+  margin: 0 0 72px 0;
+  display: inline;
+  margin: 12px;
+}
+
+.mehsul {
+  height: 34px;
+  width: 223px;
+}
+.p-2 a {
+  width: 124px;
+  height: 34px;
+  text-decoration: none;
+  background: rgba(55, 127, 240, 0.1);
+  border-radius: 4px;
+}
+.bar {
+  width: 223px !important;
+  height: 6px;
+}
+.date {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* Prime dark */
+
+  color: #051935;
+}
+.foot1 {
+  color: #051935;
+  display: inline;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+.foot2 {
+  color: #051935;
+  margin-left: 120px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  display: inline;
+}
+.progress-bar {
+  background-color: #051935 !important;
+}
+.grid-container {
+  display: grid;
+  width: 1110px;
+  grid-template-columns: auto auto auto auto auto auto;
+  background-color: #ffffff;
+  padding: 10px;
+  padding-top: 32px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.562);
+  padding: 20px;
+  width: 370px;
+  height: 72px;
+  opacity: 0.75;
+  font-size: 18px;
+  text-align: center;
+  color: #377ff0;
+  box-shadow: 0px 4px 18px rgba(55, 127, 240, 0.12);
+  border-radius: 8px;
+}
+.active {
+  box-shadow: 0px 4px 18px rgba(55, 127, 240, 0.12);
+  border-radius: 8px;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  width: 370px;
+  height: 72px;
+  font-size: 18px;
+  text-align: center;
+  color: #377ff0;
+  box-shadow: 0px 4px 18px rgba(55, 127, 240, 0.12);
+  border-radius: 8px;
+}
+.grid-item a {
+  margin-left: 15px;
+  color: #377ff0;
+  display: inline;
+}
+.active a {
+  margin-left: 15px;
+  color: #377ff0;
+  display: inline;
+  width: 50px;
+  height: 50px;
+}
+ion-icon {
+  margin-right: 16px;
+}
+.bg-theme {
+  background-color: #193257;
+}
+.solid {
+  width: 100%;
+  height: 0px;
+  border: 1px solid #9ba3ae;
+}
+.theme {
+  background-color: #051935;
+}
+.ms-10 {
+  margin-left: 170px;
+}
+.ms-11 {
+  margin-left: 470px;
+}
+.ms-6 {
+  padding-left: 260px;
+}
+.banner {
+  width: 100%;
+}
+/**/
+.mt {
+  margin-top: 70px;
+}
+.ml {
+  margin-left: 124px;
+}
+.mb {
+  margin-bottom: 50px;
+}
